@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javafx-mx">
+    <CLASSES>
+      <root url="jar:///usr/lib/jvm/java-8-openjdk-amd64/lib/javafx-mx.jar!/" />
+      <root url="jar:///usr/lib/jvm/java-8-openjdk-amd64/lib/ant-javafx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
